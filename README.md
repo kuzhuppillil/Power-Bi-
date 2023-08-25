@@ -11,3 +11,6 @@
     	•  Analyzing average ratings and costs•  Analyzing average ratings and costs
             •  Designing a multi-page report with easy navigation.
 
+### Link: 
+https://app.powerbi.com/view?r=eyJrIjoiYWRiNDgzMzctMTgyZS00MzMxLTg3NWMtMjg1NjA2MzlkOTIzIiwidCI6IjhjNzY3MTdlLWJhZjUtNDhmZS1iMDI0LWE4NWY2OTExOGY1NyJ9
+    
